@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Tabuada\obj\Debug\Tabuada.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Tabuada\obj\Debug\Tabuada.pdb
