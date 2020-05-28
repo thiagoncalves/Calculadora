@@ -11,7 +11,6 @@ namespace Tabuada
         static void Main(string[] args)
         {
             int numero;
-            int resultado;
 
             Console.WriteLine("Digite um número para ser calculado na tabuada: ");
             numero = Convert.ToInt32(Console.ReadLine());
@@ -19,6 +18,13 @@ namespace Tabuada
             Console.Clear();
 
             Console.WriteLine("Segue as informações da tabuada: \n");
+            Tabuada(numero);
+
+            Console.ReadLine();
+        }
+        public static void Tabuada(int numero)
+        {
+            int resultado;
 
             for (int i = 0; i <= 10; i++)
             {
@@ -26,7 +32,6 @@ namespace Tabuada
                 Console.WriteLine(i + "x" + numero + "=" + resultado);
             }
 
-            Console.ReadLine();
         }
     }
 }
